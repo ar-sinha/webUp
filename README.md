@@ -10,7 +10,7 @@ Possible use-cases: Flash Sales, any site that goes down due to traffic and you 
 
 Two versions of the webUp app have been provided in this repository.
 
-1. End-user version - contains a single 6MB .exe file.
+1. End-user version - can use EITHER of the 2 files webUp.exe or WebUpGUI.exe, however we recommend weUpGUI for smoother user experience.
 2. Developer version - contains a single 2KB .py file, python developers can make changes to the code directly to add any customizations according to their specific requirements.
 
 NOTE: Instructions on how-to-use are present within the app.
